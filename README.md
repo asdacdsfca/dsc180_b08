@@ -53,12 +53,12 @@ jupyter notebook technical_indicators.ipynb
 
 4. Compare fundamental metrics for ten EV industry tickers
 ```bash
-jupyter notebook fund_metrics.ipynb
+jupyter notebook fund_metrics/fund_metrics.ipynb
 ```
 
 5. Evasive Detection Prompts Exploration
 ```bash
-jupyter notebook evasive_detection.ipynb
+jupyter notebook evasive_detection/evasive_detection.ipynb
 ```
 
 6. Portfolio Optimization Technique Exploration
