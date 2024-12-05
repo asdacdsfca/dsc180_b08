@@ -18,7 +18,7 @@ To run the notebooks, you will need to set up the following environment:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<YOUR USER NAME>/dsc180_b08.git
+git clone https://github.com/asdacdsfca/dsc180_b08.git
 cd dsc180_b08
 ```
 
