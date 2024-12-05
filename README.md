@@ -7,7 +7,7 @@ The data source of this repository is from `yfinance`, a historical financial da
 
 ## Dependencies
 
-All required dependencies are provided in cells throughout the notebook. You may install these as you run through the notebook.
+All required dependencies are provided in cells throughout the notebook. You may install these as you run through the notebook. We have also included a ```requrements.txt``` for convenience
 
 (Note that some are custom Python Libraries and therefore are not in ```requrements.txt```)
 
