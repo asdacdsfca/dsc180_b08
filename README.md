@@ -9,7 +9,15 @@ The data source of this repository is from `yfinance`, a historical financial da
 
 All required dependencies are provided in cells throughout the notebook. You may install these as you run through the notebook. We have also included a ```requrements.txt``` for convenience
 
-(Note that some are custom Python Libraries and therefore are not in ```requrements.txt```)
+(Note that some are custom Python Libraries on Github and therefore are not in ```requrements.txt```. These are provided below:)
+
+```bash
+pip install tti
+# Install the Chronos library
+!pip install git+https://github.com/amazon-science/chronos-forecasting.git
+# Install the tsfm library
+! pip install "tsfm_public[notebooks] @ git+https://github.com/ibm-granite/granite-tsfm.git@v0.2.12"
+```
 
 ## Installation
 To run the notebooks, you will need to set up the following environment:
