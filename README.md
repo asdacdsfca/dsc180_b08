@@ -1,12 +1,21 @@
-# Evaluating Time-Series Forecasting Models for Stock Price Prediction
-
-This repository contains the implementation and analysis of various time series forecasting models, utilizing technical indicators and sentiment analysis. The goal is to explore how can techniques make informed decisions about investments.
+# Stock Price Prediction in the Electric Vehicle Sector: Advanced Forecasting Methodologies and Market Analysis
+In the rapidly evolving landscape of financial technology, this repository represents a cutting-edge exploration of advanced machine learning techniques for stock market analysis and investment strategy.
 
 ## Overview
-Each notebook in this repository covers a different component of the time series forecasting pipeline.
+Each notebook in this repository covers a different method of stock price prediction.
+The data source of this repository is from `yfinance`, a historical financial data API from Yahoo Finance.
 
-The data source of this repository is from ```yfinance``` a historical financial data API from Yahoo Finance.
+- `time_series_chronos.ipynb`: Investigates the use of the Chronos time series forecasting model for predicting stock prices in the electric vehicle sector.
 
+- `time_series_TTM.ipynb`: Explores the application of Tiny Time Mixers (TTM), an innovative time series forecasting approach, to predict volatile stock movements.
+
+- `tech_indicators.ipynb`: Delves into the implementation and analysis of technical indicators such as RSI, MACD, and EMA to capture market trends and generate investment signals.
+
+- `fund_metrics.ipynb`: Evaluates fundamental financial metrics, including earnings per share and price-to-earnings ratios, to assess company valuation and growth potential.
+
+- `evasive_detection.ipynb`: Presents a novel sentiment analysis approach that identifies linguistic patterns of evasiveness in corporate communications, providing insights into potential market risks.
+
+- `Portfolio_Optimization.ipynb`: Combines advanced portfolio optimization techniques, including Mean-Variance and Conditional Value-at-Risk, to develop adaptive investment strategies that balance risk and reward.
 
 ## Dependencies
 
