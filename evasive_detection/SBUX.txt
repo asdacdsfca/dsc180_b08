@@ -1,0 +1,425 @@
+Contents:
+Prepared Remarks
+Questions and Answers
+Call Participants
+Prepared Remarks:
+
+Operator
+
+Good afternoon. My name is Diego, and I will be your conference operator today. I would like to welcome everyone to Starbucks' second quarter fiscal year 2024 conference call. All lines have been placed on mute to prevent any background noise.
+
+After the speakers' remarks, there will be a question-and-answer session. [Operator instructions] I will now turn the call over to Tiffany Willis, vice president of investor relations and ESG engagement. Ms. Willis, you may begin your conference.
+
+Tiffany Willis -- Vice President of Investor Relations and ESG Engagement
+
+Welcome, and good afternoon, and thank you for joining us today to discuss Starbucks' second quarter fiscal year 2024 results. Today's discussion will be led by Laxman Narasimhan, chief executive officer; and Rachel Ruggeri, executive vice president and chief financial officer. And for Q&A, we'll be joined by Belinda Wong, chairwoman and co-chief executive officer of Starbucks China; Brady Brewer, chief executive officer of Starbucks International; and Michael Conway, chief executive officer of Starbucks North America. This conference call will include forward-looking statements, which are subject to various risks and uncertainties that could cause our actual results to differ materially from these statements.
+
+Any such statements should be considered in conjunction with cautionary statements in our earnings release and risk factors discussed in our filings with the SEC, including our latest annual report on Form 10-K and quarterly report on Form 10-Q. Starbucks assumes no obligation to update any of these forward-looking statements or information. GAAP results in the second quarter fiscal year 2024 in the comparative period include several items related to strategic actions, including restructuring and impairment charges, transaction and integration costs, and other items. These items are included from our non-GAAP results.
+
+All numbers referenced on today's call are on a non-GAAP basis unless otherwise noted or there is no non-GAAP adjustment related to the metric. As part of our non-GAAP results, Revenue, operating margin, and EPS growth metrics on today's call are measured in constant currency, whereby current period results are converted into United States dollars using the average monthly exchange rates from the comparative period rather than the actual exchange rates for the current period, excluding related hedging activities. For non-GAAP financial measures mentioned in today's call, please refer to the earnings release on our website at investor.starbucks.com to find reconciliations of those non-GAAP measures to their corresponding GAAP measures. This conference call is being webcast, and an archive of the webcast will be available on our website through Friday, June 14, 2024.
+
+Also, for calendar planning purposes, please note that our third quarter fiscal year 2024 earnings conference call has tentatively been scheduled for Tuesday, July 30, 2024. And with that, I'll now turn the call over to Laxman.
+
+Laxman Narasimhan -- Chief Executive Officer
+
+Thank you, Tiffany, and thank you all for joining us this afternoon. Let me be clear from the beginning. Our performance this quarter was disappointing and did not meet our expectations. Our Q2 total company revenue was $8.6 billion, down 1% year over year.
+
+Our global comparable store sales declined 4% year over year, driven by a negative 3% comp growth in North America, led by declining traffic, and a negative 11% comp growth in China. Our global operating margins contracted by 140 basis points to 12.8%, and our overall earnings per share declined by 7% to $0.68. While these results do not reflect our strengths, our capabilities, or the opportunities ahead, we confront these challenges from a position of enduring strength. We have led the industry for more than 50 years because we have built a different kind of company, one that exceeds our partner expectations, one that delivers a distinctive and unique experience for our customers, and one anchored in the love and craft of coffee.
+
+As a result, our worldwide brand equity remains resilient and strong. Our leadership in coffee remains unmatched. Our global base of customers remains loyal. Our experiences are differentiated and elevated, our partners are talented and engaged.
+
+Our forward-looking product pipeline is highly appealing. Our distinctive store development capability continues to perform incredibly well. Our network of stores is healthy and robust. Our stores are executing better than ever with a stronger operating foundation.
+
+Overall, partner engagement is very strong. Our triple shop with two pumps reinvention strategy continues to deliver, and our possibilities as a company remain limitless, Still we face a challenging operating environment. Headwinds discussed last quarter have continued in a number of key markets, we continue to feel the impact of a more cautious consumer, particularly with our more occasional customer, and a deteriorating economic outlook has weighed on customer traffic and impact felt broadly across the industry. In the U.S., severe weather impacted both our U.S.
+
+and total company comp by nearly 3% during the quarter. The remainder of our challenges were attributable to fewer visits from our more occasional customers. Turning elsewhere. We still see economic volatility in the Middle East, but we remain confident in the region's long-term growth opportunities.
+
+In China, we still see the effects of a slower-than-expected recovery, and we see fierce competition among value players in the market, but we are strengthening our premium position and our team in China continues to execute with terrific rigor and heart as the market shakeout continues and as demand recovers and matures. None of these realities are excuses, some like weather are transitory. Others like a more cautious consumer may persist longer, but much is within our control. There are three execution opportunities in our U.S.
+
+business I want to expand on: First, meet the demand we have across dayparts to drive future growth; second, launch even more exciting and relevant new products while maintaining our focus on core coffee forward offerings; and third, reach and demonstrate more value for our occasional and non-Starbucks Rewards customers. We understand how to do this and we have what we need to deliver against our plans. So, as we look to the second half of the fiscal year and beyond, we're accelerating our work on the underlying execution engines that power our business to realize these opportunities. Let me talk you through each: First, meet the demand we have in the U.S.
+
+across dayparts. The morning daypart is likely what you think of when you think of Starbucks. It is our peak, and it represents about half our business. It's coffee-forward, heavily routine-based, and driven by strong loyalty.
+
+At our best, we bring in customers with distinctive coffee and a great experience. We convert them to Starbucks Rewards members. We build interest with new coffee innovations, and we encourage more frequent visits and food attached. But we currently have a challenge meeting our peak morning demand in the U.S.
+
+For example, more than 60% of our morning business in the U.S. comes from Starbucks Rewards members who overwhelmingly order with a Starbucks app. What's interesting though, despite strong Mobile Order & Pay sales, we saw a mid-teens percent order in completion rate within the order channel this past quarter. In other words, customers using MOP put items into their cart and sometimes chose not to complete their order, citing long wait times of product and availability, here lies opportunity.
+
+We're intensely focused on actively working on improving operational throughput by providing our partners with the right processes and tools and on giving our customers a better sense of when the order will be ready. Rollout of our equipment-driven siren system is on track, but we're also fine-tuning the store processes that underpin this new equipment. We have been working for the past six months with the Toyota Production System Support Center to unlock additional capacity at our peak. And what we saw through store tests was a real near-term opportunity to fundamentally improve how we operate our stores.
+
+The siren craft system, as we're calling it, requires no capital. The technology solutions are relatively straightforward. And we are working to roll it out in North American stores over the coming months. In stores where we've used the siren craft system to optimize operations, we have already seen an increase in peak throughput, which we estimate to be worth nearly one comp point annually.
+
+The siren craft system also bolsters the highly incremental returns we expect from our equipment-driven siren systems as it is deployed in stores. Taken together, these new processes and new equipment systems act as complements and amplify efforts to unlock capacity at peak. Additionally, we are revamping and investing in our Deep Blue technology to improve wait time estimates and provide more transparency for customers. Their efforts we began last quarter and build on the many improvements we've made to the Starbucks app over the last 12 weeks with introductions now on a four-week upgrade cycle.
+
+Another reason customers choose not to complete their order is product availability. For example, our potato cheddar and chive bakes were a big hit with customers. But demand was so strong that we are currently only able to offer them in 2,000 of our U.S. stores.
+
+We are ramping up supply chain investments to further improve availability with an initial focus on our customers' favorite items. In summary, we are working to increase throughput and improve product availability to enhance the customer experience, improve convenience, and better capture existing demand. Over time, we believe these improvements will attract a larger subset of customers. I also want to talk about unmet overnight demand.
+
+We see it as a tremendous and untapped incremental opportunity. Last quarter, we mentioned we were conducting a pilot program to serve customers overnight between 05:00 p.m. and 05:00 a.m. when our stores are traditionally closed.
+
+During this pilot test, we doubled our business. Building off that success, we are aggressively pursuing options to build a $2 billion business over the next five years. Overnight opportunities are incremental and create a complement to our existing delivery business, which grew by double digits in the U.S. this quarter with both ticket increase and transaction growth.
+
+In addition to the overnight, we have unmet weekend demand potential. Starbucks attracts routine customers all week through the morning and the afternoon. While the weekend continues to attract our routine customers, we also see more families and kids. We are working to realize this demand potential to new product offerings, collaborations, marketing, and enhancements to the store experience.
+
+As you can see, there is significant demand in the morning and even more potential during afternoon, overnight, and the weekend we have yet to realize. And we are accelerating our execution engines to meet it. Second, launch more relevant and exciting new products for our U.S. customers while maintaining our focus on core coffee-forward offerings.
+
+We are the leader in coffee, we are overwhelmingly focused on our coffee-forward products. Coffee continues to perform strongly. And for example, 63% of our beverage sales in the quarter were cold, up 1% from a year ago, driven by innovation. And beyond our core, there is more.
+
+We know we are challenged to bring new innovations with frequency and strong appeal across other dayparts. This winter, we brought back Pistachio Latte, rolled out Oleato nationally, and launched a new core iced-shaken espresso. Our beverage is prepared with new breakfast products like our Potato Cheddar and Chive Bakes, some of our new products did well and drove positive customer buzz, but not all met our expectations. That reality, coupled with what our customers have told us, points to opportunity across both coffee and non-coffee, and by that, I mean refreshers Matcha and Chive and across food to drive greater attach.
+
+Later in the quarter, we saw improvement. Our Lavender platform was extremely successful, including our Lavender Matcha, and it compares to some of the most successful launches we've ever had. But to cut through, we're working to drive even more buzz-worthy products and on strengthening the supply of products that become popular. These efforts take time, but our team is working with great energy and speed to make both happen.
+
+We also invested in our brand over the past quarter to address recent misinformation. The work was effective in driving brand metrics and our overall brand equity and affinity remains strong. As we look ahead, we have an opportunity to better amplify our new products and to drive more awareness and excitement for those products, particularly among our more occasional customers. As we will detail, we are accelerating the execution engines to help us drive more frequent and exciting product innovations, both in the core and beyond.
+
+Third, reach and demonstrate more value for our occasional and non-Starbucks Rewards customers. We have loyal customers in the U.S., and they stay truly loyal in terms of frequency, transactions, and the level of customization they sought with their purchases. We are a brand known for the premium value we provide.Our one-of-a-kind experiential Starbucks Reserve Roasteries, which elevate our brand and create lasting value had strong transactions, fueled by innovation across our coffee platforms, other beverages, and food. Throughout the quarter, brand perception of value for what I get, on average, remained strong, and our pricing decisions have been measured.
+
+But in this environment, many customers are being more exacting about where and how they choose to spend their money, particularly with stimulus savings mostly spent. We saw this materialize over the quarter as customers made the trade-offs but being food away from home and food at home.Against that tide, we need to be able to reach and communicate with our customers in a way that demonstrates our value, particularly through Starbucks Rewards and the Starbucks app. We are accelerating back-end work on the Starbucks app to ensure we better connect with our more occasional customers. Starting in May, we will add new and exclusive in-app offers that create additional value for our customers.
+
+We'll also launch upgrades to the app that include significant improvements to our wait time algorithms. Then in July, we will begin opening the Starbucks app for all while making MOP available in more places outside our app. Following the milestone, more of our customers will be able to see our offers, including those that use guest checkout, and more customers will discover the strong value we provide, value that they will not see otherwise, More on that later. These opportunities show that much is within our control.
+
+We are confident in our accelerated plans to strengthen the execution engines that power how we serve our customers, how we create and amplify a pipeline of new products, and how we reach our customers through the Starbucks app. But let me be clear, it will take time to fully realize these opportunities. Our triple shop with two-pump strategy is the way we will drive these plans forward over the long term. So, let's talk about our progress made against each strategic pillar.
+
+Our first strategic pillar is to elevate the brand. We do this by driving compelling product innovation, building great stores, and operating great stores. Overall, we maintain our leadership and innovation in coffee. In fact, just last week, we announced several steps to reinforce our leadership position to the lens of our partners, our customers, and our farmers.
+
+These include new investments in coffee farms to further scale open agronomy practices, new and exquisite whole bean coffees coming to our core and reserve stores, and new pop of experiences in cities around the world to engage Gen Z and millennial customers in the craft of coffee, which they love. Further, we are scaling the rollout of our Clover Vertica brewer to deliver the world's finest top-quality brewed coffee. The Clover Vertica provides customers choice between six separate coffee roasts and blends, including teacups, brewed fresh on-demand any time of the day, and its rollout is paired to the global launch of our new Starbucks Milano Duetto light and dark roast blends in stores later this year. As mentioned, we are also driving more frequent and exciting product innovation, both coffee and non-coffee.
+
+Our team has been working with remarkable speed and agility to create a product innovation pipeline that includes new flavors, textures, and functional benefits. Investments in product development are already showing benefit. Our new Lavender platform performed nearly as well this past quarter as the PSL. More recently, too, our new Spicy Refreshers and Reserve Hot Honey beverages show that relevant product innovation can exceed expectations.
+
+And our new Roastery and Reserve stores, we are now introducing new products with more agility and speed. Notably, we're also making strides to cut our average product development cycle in half from our current timetable of 12 to 18 months. Looking to our innovation pipeline for the second half of the year, I'm excited by the number and types of products we're bringing to market. For summer, we are launching our first texture innovation Pearls.
+
+This is the first of more texture-based innovations that our customers can expect in the coming years. And we're launching a new functional product, a zero to low-calorie handcrafted energy beverage, both build on our coffee heritage and open entirely new vectors for additional future innovation. And later this year, we will add up to five sugar-free customization options to our menu in response to both partner and customer requests. This will provide a lower-calorie option for approximately 80% of our beverages.
+
+Our product innovation pipeline will also include more plant-based options as well, like our new plant-based ready-to-drink Frappuccino beverage that recently launched in U.S. grocery stores. Beyond our beverage development pipeline, we're also focused on enhancements to food. As an example of the investment we're making in food quality, we recently launched a reimagined premium blueberry muffin.
+
+And for summer, we're launching a new egg pesto and Mozzarella sandwich. It combines protein with outstanding taste. We're also expanding grab-and-go choices available in our store lobbies to include more vegan, vegetarian, and gluten-free options as well as kid-friendly options. Taken together, our partner experience, unique customer experience, and our core products are what differentiates us.
+
+Our pipeline is significantly stronger than last year, and product builds are being developed with partners and simplicity in mind. We're also investing in our supply chain to lower cost and ensure products are available and in-store for our customers. Lastly, we continue to grow our global store footprint. Our store development capability is a core strength.This year, we will design and build more than 3,000 new stores globally, and we continue to do so in a financially accretive manner.
+
+Our new store openings continue to realize strong unit economics. AUVs and ROIs across our portfolio continue to drive strong returns and high incrementality. We're also leveraging learnings from international markets to meaningfully lower breakeven points for store formats scalable in emerging markets. Moving on.
+
+Our second strategic pillar is further strengthening and differentiating our leadership position in digital. As mentioned, Starbucks Rewards and the Starbucks app play a central role in driving value for our customers. Our MOP set another record in the U.S., representing 31% of all transactions in the quarter. Our Starbucks Rewards members in the U.S.
+
+also grew by 6% over the prior year to nearly 33 million members. The stickiness and evolution of our digital position provides a structural advantage. Building on this strength, we are mapping additional ways to engage customers as we work to double SR members over the next five years. As mentioned, we will begin opening the Starbucks app for all in July.
+
+This addresses the current gap in our ability to reach non-Starbucks Rewards members allow us to deliver more value for the occasional customers and improves our ability to convert them to SR members. It drives a better experience for our customers and is core to our growth. We know that SR customers visit more often and spend more. Upgrades in our queue include a guest checkout feature and sequential improvements that make our app an even more appealing gateway for all customers.
+
+We also plan to invest $600 million over the next three years to further digitize our stores and better target customers in more personalized ways. This includes the installation of digital menu boards across the footprint of all our company stores in the U.S. and China. And we're making additional investments in our Deep Brew AI and machine learning platforms to further digitize and fine-tune how we operate our stores while delivering an improved digital customer experience and more personalized customer offers.
+
+Offers that are timely and relevant and flexible to location, inventory availability, and weather. These investments, including a new revenue management system, are foundational to successful execution. In the near term, we continue to provide increasingly compelling offers like marketed pairings, including both beverage and food that make occasions like lunch even more appealing. We continue to encourage and reward routinized behaviors across the day with exclusive offers for SR members.
+
+To better communicate the value we provide, we are working to drive offer awareness with omnichannel marketing. This campaign will remind customers that the best offers are in the app and will target more occasional and non-SR customers. Our third strategic pillar is becoming truly global. Our international business remains an important part of our long-term growth strategy.
+
+Across the Middle East, we continue to work with the Alshaya Group to support the well-being of our partners and customers. Last month, the Starbucks Foundation and Alshaya Starbucks donated $3 million to the World Central Kitchen and their humanitarian efforts to provide food aid in Gaza. Last week, we also announced that every bag of whole-bean Starbucks Odyssey Blend Coffee sold at participating North American stores through June will benefit World Central Kitchens efforts to address hunger around the world. Turning our attention to China.
+
+Macro pressures resulted in traffic contraction this quarter. Performance was impacted by a decline in occasional customers, changing holiday patterns, a highly promotional environment, and a normalization of customer behaviors following last year's market reopening. Like the U.S., our decline in occasional customers was most noticeable in the afternoons and evenings. Still, there are many bright spots.
+
+Starbucks remains the Chinese consumers' first choice and away-from-home coffee across city, tier, and age group. Our morning daypart in China registered growth fueled by coffee routines we've cultivated. Mornings are now larger than before the pandemic. Delivery also achieved positive comps.
+
+Starbucks Rewards membership expanded with active members now reaching a record $21 million. We're investing further to grow our SR members and their loyalty to drive greater engagement and lifetime value. Beverage innovation is also strong and validates the opportunity we see to further drive the strength of our product pipeline in China. Through the quarter, we unveiled 27 new products fueling brand excitement and meaningful customer engagement and monthly customer connection scores are at their highest ever as its partner engagement.
+
+Our robust operating muscle led to sequential margin expansion amid revenue headwinds, and we sustained very healthy and profitable unit economics and a double-digit store operating margin for a total store portfolio, including new stores. While recovery will remain choppy, our business has shown great resilience, and our fundamentals are very strong. We will win and lead in the premium market. We have built a strong and expanding customer base, a strong brand, a strong portfolio of highly profitable stores and strong capability to drive margin expansion.
+
+We continue to execute on the three key elements of our China strategy, offering more coffee forward, locally relevant product innovations, making significant investments in technology to increase omnichannel capability and digitize our stores, and increase the percentage of new store openings in lower-tier markets, and new county cities where we see stronger new store economics. We will weather through this dynamic and transitory period as the industry shakeout continues. Our confidence in the market opportunity and our ability to deliver remains unwavering as we play the long game in China. Elsewhere, we saw growth in many parts of our international segment, highlighting the resilience and diversity of our business portfolio.
+
+Excluding China, our international segment grew revenue and comp in the quarter bolstered by strength in Latin America, Asia Pacific, and Japan. The Latin American region continued its strong momentum with double-digit system sales growth. Our Asia Pacific region drove revenue growth despite headwinds in the Indonesian and Malaysian markets and revenue from our Japan business grew by double digits. Across our international segment, we opened 230 net new stores this quarter.
+
+In total, our store count outside of North America is now more than 20,800 reflecting a year-over-year growth of 9%. We opened our 400th store in India, our 600th store in Indonesia, and a 1,900th store in Korea. We are on track to operate 1,000 stores in India by 2028, translating one new store opening every three days. As we expand to Honduras and Ecuador, our global footprint will grow to more than 39,000 stores across 88 markets, putting us well on the path to 55,000 stores by 2030.
+
+Our fourth strategic pillar, one of our two pumps is unlocking efficiencies. In the quarter, our triple shot strategy continued to unlock meaningful efficiencies across the North American business, driving 150 basis points of store operational efficiencies. Additionally, we saw meaningful reductions in product and distribution costs, driven by supply chain improvements in procurement, transportation, and sourcing. Specifically in our U.S.
+
+stores, we're focused on creating a more stable environment for partners through investments in equipment innovation, process improvements, staffing, scheduling, and waste reduction, all things our partners value and prioritize, creating a more satisfying work environment in our stores while derisking our business. Today, our stores are running better than ever before, underpinned by the strong fundamentals our team has built. For example, we see meaningful improvement in drive-thru window times without adding more work for our partners with even more to come as we layer in our siren craft system. We are rebuilding and refining our supply chain and to unlock efficiencies in our factory in the back we are leveraging technology in new ways.
+
+We have significant above-the-store opportunity to realize efficiencies in our supply chain. They are significantly higher than we initially thought, and we are ahead of plan and savings. Through work to date, we have the confidence we need to extend our goal from $3 billion in added efficiencies over three years to $4 billion over the next four. As a result of our investments and focused efficiency efforts, partner turnover reached a new low in the quarter.
+
+Store manager turnover has also improved, and both beat industry benchmarks by a wide margin. Average hours of partner continue to improve by double digits year over year, increasing engagement and their take-or-pay. That brings me to our fifth strategic pillar, reinvigorating our partner culture. From the beginning, Starbucks set itself apart as a different kind of company.
+
+Our unique culture is anchored in our mission promises and values of craft, results, courage, belonging, and joy. And at the heart of our business are our partners. They are central to the Starbucks experience and are delivering on our promise to uplift the every day for customers around the world. I see this every day and through my regular work in stores.
+
+We continue to work to restitch the fabric of the Green Apron for our partners. Just last week, we gathered together to celebrate our first-ever Starbucks Promises Day. And next month, we will celebrate the 10th anniversary of our Starbucks College Achievement Plan with Arizona State University. Following commencement, more than 13,000 partners will have earned the bachelor's degree through the program bringing to life our partner promise of a bridge to a better future.
+
+What's more, over 25,000 partners across more than 90% of our U.S. stores are currently enrolled in the program and are pursuing a bachelor's degree. To close, we had a tough quarter. We need to do better, and we will.
+
+As I look forward, I'm confident we have the right strategy. We have terrific partners and a strong executive team that is deeply engaged and continues to lead. I thank each of our 460,000 Green Apron partners around the world for their remarkable work. We have real opportunity, and we are taking swift action to accelerate investment to the execution engines that will address the near term and drive our long-term success.
+
+These actions are funded by highly profitable operations and productivity initiatives and is captured within our guidance. As these actions take hold, we expect our business to return to algorithmic growth and to achieve its long-term opportunity. And with that, I will turn it over to Rachel to discuss our results in greater detail. Rachel?
+
+Rachel Ruggeri -- Chief Financial Officer
+
+Thank you, Laxman, and good afternoon, everyone. As Laxman shared, our performance this quarter did not reflect what we're capable of as a company. We have an incredible brand, loyal customers globally, a strong portfolio of highly profitable stores, and in connection with our partners and customers that's unlike any other in our industry. We know that we can and we will do better.
+
+While it was a difficult quarter, we learned from our own underperformance and recognize the onus is on us to execute. We've sharpened our focus and with our comprehensive roadmap of well-thought-out of actions, the path forward is clear. With that, let me turn to our results. Our Q2 consolidated revenue was $8.6 billion, down 1% from the prior year due primarily to a 4% decline in comparable store sales driven by lower transactions, partially offset by 8% net new company-operated store growth over the prior year.
+
+Q2 consolidated operating margin contracted 140 basis points from the prior year to 12.8%, primarily driven by deleverage, partner wages, and benefit investments as well as promotional activities, partially offset by pricing and our continued execution against reinvention-related in-store operational efficiencies, which drove approximately 150 basis point savings in the quarter. Q2 EPS was down -- was $0.68, down 7% from the prior year, primarily due to the contraction of operating income in both the North America and International segments as a result of lower revenue. I'll now provide segment highlights for Q2. North America revenue was $6.4 billion in Q2, flat to the prior year as 5% net new company-operated store growth was mostly offset by a 3% decline in comparable store sales driven by a 7% decrease in transactions partially offset by a 4% increase in average ticket.
+
+Our U.S. company-operated business posted a 3% comparable store sales decline in Q2, driven by a 7% decrease in transactions. Consistent with Q1, the traffic decline was pronounced among more occasional customers with a more cautious consumer environment as a backdrop, and also included an estimated 3% adverse impact from extreme weather, including some store closures. Partially offsetting the decline was a 4% increase in average ticket reflecting pricing as well as the continued mix shift into cold beverages such as Iced Shaken Espresso and Matcha Tea Latte, which resonate with our customers.
+
+Additionally, our new store performance remains strong, with both year one AUV and cash margin of recently opened stores projected to be in line with last year's newly opened stores, preserving high incrementality even with our expanding footprint. North America's operating margin was 18% in Q2, contracting 120 basis points from the prior year. The contraction was primarily driven by deleverage, partner wage and benefit investments as well as promotional activities, partially offset by pricing and reinvention-related in-store operational efficiencies. While deleverage drove the overall contraction in the segment's margin, efficiencies generated through our reinvention efforts meaningfully countered the deleverage we experienced in the quarter.
+
+While our reinvention plan is intended to provide a more balanced growth model and margin expansion, we're pleased to see the benefits counterbalance, broader headwinds in our business as our partner staffing and scheduling investments continue to unlock in-store efficiencies. The benefits continue to expand outside of stores as well, resulting in meaningful reduction in the segment's product and distribution costs as a percentage of revenue, partially driven by supply chain savings. We believe our strategies related to reinvention are working, creating more streamlined operations and tangible financial benefits across our business with more opportunity to come. Moving to international.
+
+The segment delivered $1.8 billion in revenue in the quarter, roughly flat to the prior year, primarily as 12% growth in net new company-operated stores was offset by a 6% decline in comparable store sales driven evenly by transactions and average ticket. Revenue was also impacted by a decrease in licensed store revenues, largely resulting from the negative impacts to our business in the Middle East. Although our revenue was impacted, our long-term aspirations in international has not wavered as there was revenue and comp growth across the international segment when excluding China. This speaks to the strength of our broader international portfolio, driven by markets like Japan, Asia Pacific, Latin America, and the Caribbean.
+
+Shifting to China. In Q2, China's revenue declined 3%, driven by an 11% decrease in comparable store sales, consisting of 8% and 4% decline in average ticket and transactions, respectively, partially offset by a 14% net new store growth. The market continued to recover slower than expected, with further impacts from the timing of holiday-related travel trends. Despite the complex environment, the market opened 118 net new stores in the quarter, while sustaining double-digit store operating margin for both new stores and the total portfolio, demonstrating the health and resilience of our brand in the market positioning us well in the market long term.
+
+Total International segment operating margin was 13.3% in Q2, contracting 340 basis points from the prior year, primarily driven by promotional activities, partner wage and benefit investments as well as sales mix shift, partially offset by pricing in certain markets. Shifting to channel development. The segment's revenue of $418 million in Q2 declined 13% from the prior year, largely in line with our expectations given the sale of Seattle's best coffee and SKU optimization. Importantly, we maintained the number one share position in both U.S.
+
+at-home coffee and U.S. ready-to-drink. As an example of innovation in China, we launched our Starbucks Refreshers platform with two flavors, the pink drink, and the purple drink, to drive our much-desired cool portfolio beyond our stores, particularly among Gen Z. The segment's operating margin was 51.7% in Q2, expanding 1,610 basis points from prior year, driven primarily by growth in our North America Coffee Partnership joint venture income as well as lapping prior year impairment charges against certain manufacturing assets.
+
+The segment's operating margin is progressing in line with our original expectations, continuing to target the full-year range of high 40% to low 50%, a very attractive financial model. Now, moving on to our guidance for fiscal year 2024. Given what we shared today, we're revising our fiscal year guidance, and I'll walk through both: one, what changed; and two, what remains the same in comparison to our previous guidance. So, first, what changed? Broadly, in the second quarter, our business underperformed as revenues in the U.S., China, Middle East, and other markets were impacted more deeply than anticipated by the continued multifaceted headwinds.
+
+In addition to the second-quarter performance, our exit rates of both revenue and comp growth across our key markets reflect continued headwinds. To manage these headwinds, we have focused actions both to unlock capacity and track demand in the spirit of uplifting traffic as well as to further implement our triple shop strategy. Leveraging our learnings from the second quarter, and as Laxman discussed in detail, we're working to further elevate our brand through an integrated focus across product innovation and marketing, including strengthening our digital capabilities delivering more value for our customers. For instance, first, to unlock demand in the morning daypart in the U.S.
+
+We're working to improve store-related processes, leveraging our siren craft system while also increasing product availability through improved inventory management. Second, to attract demand, particularly in the afternoon daypart, we're implementing a new and more frequent innovation cadence integrated with a broader multi-crane marketing approach, inclusive of highly targeted personalized offers. This shift is geared toward our more occasional customers to attract and inject them to our stores and apps. Now, some of these actions will take time to fully materialize.
+
+However, through our investments in our customer experience and focused execution, we do expect to deliver some benefit in the current fiscal year. As a result of what has changed, our revenue and comp guidance as well as the related flow-through to margin and earnings is impacted. In addition, the continued headwinds impacted our global store growth expectations. Now, before I share the details of our revised fiscal year 2024 guidance, I'll share what remains the same.
+
+First, we have confidence in the effectiveness of our proven triple shop strategy. as our biggest opportunity lies in our execution. Second, our efficiency efforts are tracking slightly ahead of our expectations. Year to date, we achieved 170 basis points of in-store operational efficiencies along with great progress out of store, positioning us to deliver our $3 billion savings target through fiscal year 2026 with line of sight to even more opportunity beyond that.
+
+Third, while our Channel Development segment is the smallest of our segments, it complements our portfolio, capturing customer occasions beyond our stores and our performance in that segment continues to deliver. Lastly, we must continue investing in the fundamentals and competitive moat of our business, our partners, our stores, and our customers as we believe these investments will drive long-term growth and industry leadership beyond these transitory headwinds. Based on these facts, we are revising our full-year fiscal 2024 guidance to global revenue growth of low single digits from our previous range of 7% to 10%. Global and U.S.
+
+comps of low single-digit decline to flat both from the previous range of 4% to 6% growth, China comp of single-digit decline from the previous expectation of low single-digit growth in Q2 through Q4. Global net new store growth of approximately 6% from our previous expectation of approximately 7%. We continue to expect our U.S. store count to grow by approximately 4% and now anticipate approximately 12% store growth in China from our previous expectation of approximately 13%.
+
+Operating margin growth approximately flat from the previous expectation of progressive expansion. Finally, we expect EPS and non-GAAP EPS growth of flat to low single digits from the previous range of 15% to 20%. As a reminder, our guidance does not include any impact from foreign currency translation and assumes constant currency. As an additional insight into our fiscal year 2024 guidance, we expect sequential revenue growth from Q3 to Q4 with pressure on margin and earnings easing in Q4 as our action plans take hold.
+
+We continue to expect our full-year effective tax rate in the mid-20% range. Lastly, we continue to expect approximately $3 billion in capex, most of which is ring expense for our direct investment in our global store portfolio, which as we have shared, continues to drive highly attractive returns. In summary, here are key takeaways from my discussion today. First, Q2 was a challenging quarter for us as headwinds consistently persisted throughout the quarter leading us to revamp our actions and response plans to both unlock and attract demand.
+
+Second, our triple shot strategy continues to deliver efficiencies even in the face of headwinds reinforcing that we have the right strategy at the right time. Next, our fiscal year 2024 guidance has been revised to reflect our Q2 performance, year-to-date results as well as the near-term headwinds we're experiencing. We, however, remain confident in our long-term growth opportunity and, thus, committed to our strategy and the related investments. And finally, our disciplined approach to capital allocation drives our financial fortitude, reflecting shareholder commitment underpinned by our best-in-class dividends.
+
+This allows us to preserve both balance sheet durability and flexibility, positioning us to successfully navigate this complex and dynamic environment. Before I open the call to Q&A, I want to share my sincerest gratitude for my partners, both in and out of stores across the globe, who show up every day, living our values to deliver the differentiated customer experience that, makes Starbucks so special for all of us. Thank you, partners. Operator, you can now open the call to Q&A.
+
+Questions & Answers:
+
+Operator
+
+Thank you. [Operator instructions] Our first question comes from Sara Senatore with Bank of America. Please state your question.
+
+Sara Senatore -- Bank of America Merrill Lynch -- Analyst
+
+Hi. Thanks. I guess it's a two-part question about trends that you were talking about. The first is that you talked about weather as a headwind, and then you said that Lavender late in the quarter was one of the strongest launches you've had, similar to PSL, but your exit rate, it sounds like you're saying your exit rate was largely unchanged.
+
+So, I'm trying to reconcile what would appear to have been, headwinds that aren't recurring and then very successful innovation with the guidance and the exit rates. That's the first part. And the second is just, in terms of the cautious consumer, typically I think what we'd see is check management, and you don't seem to be seeing that. I think mix is still a tailwind for you.
+
+So, it seems to me that there's not as much evidence of, consumer caution as perhaps just some of what you were talking about that's Starbucks specific. So, if you could just comment on those? Thanks.
+
+Laxman Narasimhan -- Chief Executive Officer
+
+Sara, thank you for your question. Let me address both of them, by pointing to the underlying pressures that we see consumers face, just in terms of what they have available to spend. So, there's no question that, if you take some of these transitory headwinds out, which of course, are not an excuse in any way, and you look at the underlying headwinds, particularly around the pressures that consumers face, particularly with the occasional customer, what we're seeing is that's where the challenge is. It's a challenge with their traffic, and it's their challenge with them coming into our stores.
+
+If you look at our most loyal customers, they're coming in often. They're seeing the value that we provide in Starbucks rewards in our app. They are premiumizing through customization as in the past, and so therefore what you see there, is you see a strong business with our loyal customers, particularly those within the environments of the Starbucks app. What we are focused on is first, how we meet the demand we all already have through ensuring that our partners of the processes, and the tools at the peak in order to meet the demand of customers, who at this moment are choosing not to complete their transactions in mobile order pay.
+
+The second thing is, we're clearly launching new products, and our pipeline's very strong.And what we are doing though, as part of that is the third element, is how we reach and deliver value to the more occasional customers, as well as those that are not in the Starbucks rewards ecosystem, and that's where the challenge lies, and that's how you reconcile the two points that you had made. So, we have a lot in our control, and we are focused on it, and we're focusing on the execution of those three opportunities, as I laid out, in North America.
+
+Operator
+
+Thank you. And our next question comes from Brian Harbour with Morgan Stanley. Please state your question.
+
+Brian Harbour -- Morgan Stanley -- Analyst
+
+Thank you. Good afternoon. When you talk about the more occasional customer, I'm curious, is that often a younger customer, and I think the broader question is just is there any sort of brand residence issue, with perhaps some of that customer base? Do you think there's sort of a product residence issue with them? Is there more that needs to be done than just kind of accelerating the pace of new products, and some of the other drivers that you talked about in the near term?
+
+Laxman Narasimhan -- Chief Executive Officer
+
+Brian, thank you for your question. I think that if you look at our overall brand equity, it is and continues to be strong. If you look at the scores around value for what I get, strong. So, if I look at the occasional customer, though, they're clearly making choices based on the economic pressures they face.
+
+What they look for from us is they look for variety. They look for the core. Fifty percent of what we have, in the afternoon, as an example, is coffee. So, obviously coffee is really important, and distinctiveness of coffee is very important, but they are looking for variety, and they're looking for value.
+
+And what we're focused on is ensuring that we find a way to connect with them, to bring them into our app ecosystem, in order for them to see the value that we provide insight there. That's why you're going to see the actions we take in May. You're going to see the actions that we take in July, as we open up the app for all. That is going to make them, particularly North America, be able to see the value that we provide in a way that's much easier for them, and as they build loyalty over time, they will see even more value, as they come into the system.
+
+So, that's as far as North America goes, and the steps that we are taking.
+
+Operator
+
+Thank you. And our next question comes from Jeffrey Bernstein with Barclays. Please state your question.
+
+Jeffrey Bernstein -- Barclays -- Analyst
+
+Great. Thank you very much. A broader question on the global unit growth. Just more broadly, your confidence, or I guess the prudence in maintaining what still is outsized growth with the headwinds seemingly large.
+
+Just wondering how you can be confident that the current challenges you're facing aren't in part due to maybe saturation, or cannibalization. And I guess that does end up pointing to China, and for China specifically, I think you mentioned healthy unit economics and double-digit restaurant margin. I was just wondering if, Rachel, maybe you could just talk about the specifics in terms of those sales margins and returns that justify still that outsized growth in a very challenging China macro? Thank you.
+
+Laxman Narasimhan -- Chief Executive Officer
+
+Let me first, I'll take on the first question of global unit growth and hand over to Rachel to talk specifically about your question on China margins. Jeff, what we see is we see very strong cash and cash returns. And I think what we've done, both in the U.S., but also in the expansion plans that we have internationally. And I think what you see us, what we're focused on is ensuring that we have reduced the cost of our stores and stores investment.
+
+We have done a very good job in bringing efficiency to that. And so, as we expand, we see very good cash and cash returns. The reality is that the penetration we have in many of these markets, and the headroom that we have internationally is very high. I mean, I think last time we talked about the fact that I think we were just in 800 cities or in China, and the opportunity for us in terms of counties is about over 3,000.
+
+So, I think we're like -- we're not really penetrated as much as we could be in a place like China, which is why we have confidence. As we look at the real estate options we have, the proposals that are coming together, the kind of cash returns we get are very strong. That's what gives us confidence in terms of the global unit growth. Rachel, do you want to take the second part?
+
+Rachel Ruggeri -- Chief Financial Officer
+
+If I would just add to that, when we look at the guidance that was given around our new store growth, particularly as it relates to China, that's really a very deliberate decision that, we took to be able to increase the number of stores that, we were opening in lower tier cities and new counties, where we see even stronger returns. So, broadly, our returns are quite attractive, but they're even stronger in those lower-tier cities and the new counties. And as a result of that, that shift actually impacts our development pipeline. So, there's a timing impact in terms of new store growth.
+
+So, that's why we're at 12%, which we think is still a very strong growth and indicative of the opportunity that we see [Technical difficulty]
+
+Operator
+
+Are you still connected? One moment. Can you hear us? One moment.
+
+Laxman Narasimhan -- Chief Executive Officer
+
+We can hear you.
+
+Operator
+
+Thank you. And our next question comes from David Palmer with Evercore ISI. Please state your question.
+
+David Palmer -- Evercore ISI -- Analyst
+
+Thanks. First, I wanted to ask a clarification. You mentioned in your prepared remarks that, you viewed some of the issues in China as transitory. I think you were speaking more about the competition than you were about the consumer with that comment.
+
+I think you mentioned something about a shakeout. I was wondering, if you could double click on that for us, what you're maybe seeing that would make you think that the environment there would be competitively, would be a transitory one and it would get better that way. And then from a beverage innovation standpoint, I'm wondering how you're viewing the pipeline. Lavender happened.
+
+Spicy lemonade has happened. You have two new ones coming up. How are you viewing the pipeline differently than -- and how are you thinking about the process of R&D differently today? And how are you evaluating what you've done? Thank you.
+
+Laxman Narasimhan -- Chief Executive Officer
+
+I think we have some technical problems in hearing you. But let me just try and recap the question. The first question was on competition in China and the comment around the shakeout that, we are starting to see. And the second comment was on beverage pipeline.
+
+So, let me start with the competition in China. I think the growth that's taking place in the mass area of the China business, of the China overall coffee and tea segment, is one where we see just intense price competition. We're choosing not to participate in that. We are a premium brand.
+
+We've built a business over 25 years with a great deal of competitive advantages. You can see that there. We have amazing partners and stores. We have stores that look distinctive.
+
+We have an end-to-end supply chain that frankly, I would love to have in the U.S. And then we are steeped in coffee and the tradition of coffee in an end-to-end, as well as with the knowledge that we have in stores. So, we bring that to life very well in our business in China. At the same time what you are seeing is the intense competition, particularly in the Tea segment and it overlaps into coffee, in the mass area is one where you are seeing, some of the shakeout happen in terms of the impact on people, and how they can really sustain that kind of intensity.
+
+For us, our focus is on the premium end, and we're continuing to see that right now the headroom we have in China is large. I mean, we're still at 13 cups per capita. Japan's at 280 and the U.S. is at 380.
+
+We know that over time as the Chinese consumer starts spending, what you're going to realize is that we have a business that is healthy. That has a P&L at the store operating margin level that is strong, and we're going to see that grow as the consumer gets more and more exposed to coffee. So, that is what I mean by the overall competitive environment in China. In terms of your question about the beverage pipeline, I think that's meant largely around North America.
+
+One of the things we're seeing here is we are core in coffee, and we're tremendously excited about the innovations that we're bringing, with whole-bean coffee and some of the coffee-forward innovations that, we are seeing in our stores. But additionally, as we look at the occasional customers, they are looking for variety, and what we are doing is, we're finding ways to open up new platforms of growth. And last time I mentioned that there were three platforms, and these are foundational for additional new introductions that we will make over time. The first one was textures.
+
+So, we start with pearls, with our summer one program that starts next week. We then have a handcrafted energy platform that's coming in later on in this quarter. Additionally, plant-based is an area where we've traditionally been really well known for. So, we are defining platforms, and these are platforms around, which you can expect to see systematic innovations that come in not just this time around, but also, you will see further more that come in around these platforms.
+
+That's how we're thinking about R&D. It's around platforms both in beverage as well as in food.
+
+Operator
+
+Thank you. And our next question comes from Sharon Zackfia with William Blair. Please state your question.
+
+Sharon Zackfia -- William Blair -- Analyst
+
+Hi. Good afternoon. Thanks for taking the question. I guess you know I'm trying to think through the sequencing of how we got here today, and it seems like in October, and early November at the Analyst Meeting demand was not a problem in the U.S.
+
+And I hear you saying that you have a lot of unmet demand. But could you, excuse me, kind of help us do a hindsight on how these issues have come to a crux, so quickly just four or five months hence since those kind of very ambitious goals that were given?
+
+Laxman Narasimhan -- Chief Executive Officer
+
+Thank you, Sharon. I think that if I look at the headwinds that we see in the market, in particular, with the consumer, and the pressures that they face. I think that they were sharper, and more accelerated than what we expected. I think in hindsight, if I look at the situation in China while long-term growth potential is, it's sort of thinking we're committed to the long-term in China the recovery has been choppy.
+
+But I think what we've seen particularly since that period is we've seen more intense price competition than what we expected. None of that takes away from the long-term, but it's clear that what we had this quarter was tough.
+
+Operator
+
+Thank you. And our next question comes from Peter Saleh with BTIG. Please state your question.
+
+Peter Saleh -- BTIG -- Analyst
+
+Great. Thanks for taking the question. I didn't want to ask about the siren system. This was the focal point of the Investor Day a couple of a couple years ago.
+
+And it seemed like it was put on the back burner, for a little while, but now it seems like you're talking more bullish about this system going forward. So, can you just give us an update, I think last we heard it was going to be rolled out, to less than 10% of the stores this year. What is the strategy now, and how does this help solve some of the issues you have? It sounds like some of the issues that you have are more in the supply chain and not necessarily within the four walls of the stores. Thanks.
+
+Laxman Narasimhan -- Chief Executive Officer
+
+Peter, just to respond to your question. First of all, the siren system was never put on the back burner. In fact, we're on track to having a siren system installed in less than 10% of the stores, as much as we committed so it's on track. What we've added in here though, is the underlying processes, to ensure that we can reduce the wait time in the store.
+
+It is inside the four walls of the store. And that's what those processes are intended to do in the U.S. And so, that's what the acceleration of the processes are, that we've been testing. What they provide is a base on which we will continue to implement the overall siren systems that we showcased to you in the September Analyst Day, when you were here with us, and we talked to it.
+
+Operator
+
+Thank you. Our next question comes from Lauren Silberman with Deutsche Bank. Please state your question.
+
+Lauren Silberman -- Deutsche Bank -- Analyst
+
+Thank you. One follow-up and then a question. First, can you just talk about the cadence of U.S. comp throughout the quarter? I know you mentioned Lavender was extremely successful, but it doesn't seem to be showing up in the comp, just given the commentary on the exit rate.
+
+So, just help us understand the performance of new products and whether that's driving incremental customers you're targeting. And then just a quick one on like loyalty. It looks like active rewards members declined quarter over quarter, which is very rare. Can you just talk about what you're seeing there given the commentary on the strength of the core customer? Thank you very much.
+
+Laxman Narasimhan -- Chief Executive Officer
+
+Do you want to take it on, Rachel?
+
+Rachel Ruggeri -- Chief Financial Officer
+
+Thank you, Lauren. I'll start with the comp, and what I spoke about in my prepared remarks about the exit rate. And Lavender was quite successful for us, as you heard in Laxman's prepared remarks. What we were encouraged by is that Lavender spoke to where our customers, particularly our Gen Z and Millennial customers, are now asking about, which is more news more often in a broader offering, so offering coffee, non-coffee, food, healthier choices.
+
+And so, we hit squarely with that with Lavender, by having particularly our most popular offering in Lavender was the Iced Lavender Matcha Latte. And so, that shows that when we innovate well, and our own expectations. And so, that shows that when we innovate well, it's meeting our own expectations. Now, it was later in the quarter, so it did do something for us in terms of driving customers into the afternoon.
+
+Largely, we saw that platform resonate well in the afternoon with our customers. The latte will tend to do more in the morning, but broadly, Lavender hit in the afternoon. So, we see that that overall offering and how we're trying to address the customer, more occasional customer with that worked well. But what I would say is it was later in the quarter we got more opportunity coming going forward and as a result of that our exit rate in the quarter still reflected continued headwinds, which we're reflecting in our guidance for the back of the half of the year.
+
+What we're expecting is the plans that we've outlined today will help us counterbalance some of those headwinds, particularly as we see those actions start to take place. So, I think it's important to think about there are continued headwinds in there. Our plans will counterbalance that. As we go after some of those challenges, I think the other thing to remember is that we are coming with a position of strength as it relates to the efficiencies around our triple shot.
+
+As well as the growth we have in new stores, and the strength we're seeing in our portfolio overall. We have a very strong portfolio, profitable portfolio globally. And our brand is strong. So, we look at all of that and that's how we're thinking about the exit rates of comps, as well as what we're seeing for comps in the back half of the year.
+
+So, hopefully, that provides a little more texture.
+
+Laxman Narasimhan -- Chief Executive Officer
+
+Brady, on launching?
+
+Brady Brewer -- Chief Executive Officer of Starbucks International
+
+Thank you, Lauren. You talked about the year-over-year increase but quarter-over-quarter declines of Starbucks Rewards members. I think just to be clear that is in terms of 90-day frequency. So, we still have a very large population of SR members, but it's about frequency of those customers, which I think is consistent with the consumer pullback.
+
+The more occasional and very occasional SR members, those ones visited less frequently within the quarter, as a result of that customer 90-day active quarter over quarter that said the 6% growth year over year, we're continuing to grow SR MOP in the quarter, so we still have a very active customer base, setting record high in MOP. Delivery grew double digits in the quarter, and we see very active digital customers, and I think as Laxman talked about, with regard to how we're going to provide SR and traffic in the coming quarters, this is squarely aligned to this challenge is reactivating SRs bringing them back and demonstrating value in driving frequently through the app and through SR, and we have a lot of great programs lined up in the emergency units ahead.
+
+Operator
+
+Thank you. And our next question comes from John Ivankoe with JPMorgan. Please state your question.
+
+John Ivankoe -- JPMorgan Chase and Company -- Analyst
+
+Hi. Thank you. Two parts if I may. I heard the word misinformation and I think some improving maybe scores around that.
+
+So, I just wanted to get a sense of how much of an opportunity in terms of sales loss that you think correcting misinformation might actually mean for Starbucks. I don't think you've quantified that, but that would be helpful. And then secondly, regarding the Toyota production system, I think I heard you say that it would help about a point. Correct me if I'm wrong about that, but that seems to be a fairly low number.
+
+And just talk about what kind of changes that would happen under the Toyota production system. And to us, one of the opportunities would be having food ready when the customer orders it. In other words, using food warming cabinets would be particularly effective, for both Mobile Order & Pay and drive-thru. So, is that something that maybe as part of Siren that can be accelerated before the entire Siren System goes into place? Thank you.
+
+Laxman Narasimhan -- Chief Executive Officer
+
+John, thank you for the question. I think on the question about misperception, so misperception did have an impact on our business and in certain opportunities. We haven't really -- we don't have a qualification for that. But what we do know is that our brand equity scores and the investment we made in the brand has certainly helped strengthen well the overall perception of our brand with its extended review.
+
+So, in terms of Toyota production system, what we're doing first is we're talking about how we're doing the peak of doing the deployment. So, how we essentially work with deployment in the store, how we handle what happens at peak in terms of where people are deploying, how we actually process customers. And what you see is the typical risk. I know we've given you a qualification of one percentage point.
+
+That is a conservative estimate because when it fully gets deployed and it is, you could see even bigger improvement in that matter. In regard to your question on the hard forward, that is doing something accepting, and so we're looking at accelerate that with the work that we are doing.
+
+Operator
+
+Thank you. And our next question comes from Andrew Charles with Cowen & Company. Please state your question.
+
+Andrew Charles -- Cowen and Company -- Analyst
+
+Great. Thank you. I know you're committed, of course, to the tenants of the reinvention plan. But in light of the current environment and caution of the U.S.
+
+and China consumer, can you level set the long-term earnings algorithm introduced in November around guidance for 5% same-store sales and 15% plus EPS growth? Does that still apply to 2025 and beyond?
+
+Laxman Narasimhan -- Chief Executive Officer
+
+Andrew, thank you for your question. Everything we see, I know that we had a tough quarter. But everything we see in terms of the opportunities that lie ahead, as you look at the opportunities we have across the innovation that we see in terms of the pipeline going forward, not just here but beyond, if you look at the productivity opportunities, the store count opportunities, we believe we'll be back outdoor as a goal, and we see no change in the long-term of our business -- of the year earlier in this.
+
+Operator
+
+Thank you. Then the last question comes from David Tarantino with Baird. You may ask your question.
+
+David Tarantino -- Baird -- Analyst
+
+Hi. Good afternoon. My question is on the value strategy that you laid out and the need to protect traffic or attract traffic in a tough environment. But I'm just wondering how you balance that with protecting the long-term health of the brand.
+
+Starbucks has always been a very premium brand position. And sort of training some of these occasional users to come in on discount might have some detrimental impact. So, I'm just wondering how you balance those two things and the strategy that you have.
+
+Laxman Narasimhan -- Chief Executive Officer
+
+Thank you for your question. First of all, we do provide services. And we have no intention of going across the board and saying that it's not possible. What we are doing is we are serious about the fact that as a new team, as you move on the way, we are going to offer you the best levels of [Technical difficulty].
+
+Remember that our brand overall right now that means for what I get is still very strong. So, we are very good about that. And this is more about how we move the teams, and how we attract customers. But to those adults who are coming in on that, we need to find ways to reach them.
+
+We have to find ways to reach them. [Technical difficulty]
+
+Rachel Ruggeri -- Chief Financial Officer
+
+Everything is more an integrated way around product as well as what our customers can get an app to [Technical difficulty].
+
+Operator
+
+Thank you. That was our last question. I'll now turn the call over to Laxman Narasimhan for closing remarks.
+
+Laxman Narasimhan -- Chief Executive Officer
+
+Thank you for joining us. We had a tough quarter, but we have a clear action plan that Rachel, the team, and I [Technical difficulty]. Thank you for joining us, and we appreciate the time to chat this afternoon.
