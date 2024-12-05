@@ -7,7 +7,9 @@ The data source of this repository is from `yfinance`, a historical financial da
 
 ## Dependencies
 
-The required dependencies are provided in cells throughout the notebook. You may install these as you run through the notebook.
+All required dependencies are provided in cells throughout the notebook. You may install these as you run through the notebook.
+
+(Note that some are custom Python Libraries and therefore are not in ```requrements.txt```)
 
 ## Installation
 To run the notebooks, you will need to set up the following environment:
@@ -16,6 +18,11 @@ To run the notebooks, you will need to set up the following environment:
 ```bash
 git clone https://github.com/asdacdsfca/dsc180_b08.git
 cd dsc180_b08
+```
+
+2. Install the packages:
+```bash
+pip install -r requirements.txt
 ```
 
 ## Usage
