@@ -26,4 +26,32 @@ cd dsc180_b08
 After setting up the environment, you can run each notebook individually. They are structured so that you can explore each aspect of the time series forecasting pipeline step by step.
 
 1.  ```Chronos```'s prediction of daily price for EV sector from 9/1/2024 to 9/30/2024
+```bash
+jupyter notebook time_series_chronos.ipynb
+```
+
+2. ```Tiny Time Mixers```'s prediction of daily price for EV sector from 9/1/2024 to 9/30/2024
+```bash
+jupyter notebook time_series_TTM.ipynb
+```
+
+3. Daily technical analysis dashboard for EV sectors from 10/1/2024 to 10/11/2024.
+```bash
+jupyter notebook technical_indicators.ipynb
+```
+
+4. Compare fundamental metrics for ten EV industry tickers
+```bash
+jupyter notebook fund_metrics.ipynb
+```
+
+5. Evasive Detection Prompts Exploration
+```bash
+jupyter notebook evasive_detection.ipynb
+```
+
+6. Portfolio Optimization Technique Exploration
+```bash
+jupyter notebook Portfolio_Optimization.ipynb
+``` 
 
