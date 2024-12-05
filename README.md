@@ -24,3 +24,6 @@ cd dsc180_b08
 
 ## Usage
 After setting up the environment, you can run each notebook individually. They are structured so that you can explore each aspect of the time series forecasting pipeline step by step.
+
+1.  ```Chronos```'s prediction of daily price for EV sector from 9/1/2024 to 9/30/2024
+
