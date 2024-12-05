@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+plotly
+scipy
+sklearn
+statsmodels
+ta
+tensorflow
+torch
+transformers
+nltk
+yfinance
+tti
+chronos
+tsfm_public
