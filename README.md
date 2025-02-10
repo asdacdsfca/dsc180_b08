@@ -4,9 +4,11 @@ This repository contains code for comparing ARIMA and Chronos-Bolt models in for
 ## Overview
 The data source of this repository is from `yfinance`, a historical financial data API from Yahoo Finance.
 
+The data source of our sentiment analysis is in `4reddit_posts.csv`, a historical financial related posts dataset we scraped from Reddit.
+
 ## Dependencies
 
-All required dependencies are provided in cells throughout the notebook. You may install these as you run through the notebook. We have also included a ```requrements.txt``` for convenience
+All required dependencies are provided in a ```requrements.txt``` for convenience
 
 (Note that some are custom Python Libraries on Github and therefore are not in ```requrements.txt```. These are provided below:)
 
@@ -16,7 +18,7 @@ All required dependencies are provided in cells throughout the notebook. You may
 ```
 
 ## Installation
-To run the notebooks, you will need to set up the following environment:
+To run the scripts, you will need to set up the following environment:
 
 1. Clone the repository:
 ```bash
@@ -30,7 +32,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-After setting up the environment, you can run each notebook individually. They are structured so that you can explore each aspect of the time series forecasting pipeline step by step.
+After setting up the environment, you can run each scripts individually. They are structured so that you can explore each aspect of the time series forecasting pipeline step by step.
 
 1. ARIMA
 
