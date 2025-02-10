@@ -1,8 +1,7 @@
-# Stock Price Prediction in the Electric Vehicle Sector: Forecasting Methodologies and Market Analysis
-In the rapidly evolving landscape of financial technology, this repository represents a cutting-edge exploration of advanced machine learning techniques for stock market analysis and investment strategy.
+# Comparing Chronos-Bolt and ARIMA Models for Portfolio Optimization in the S\&P 500 Information Technology Sector
+This repository contains code for comparing ARIMA and Chronos-Bolt models in forecasting stock returns for the S&P 500 Information Technology sector. It includes implementations for ARIMA, Chronos-Bolt, and sentiment analysis, integrating technical indicators and investor sentiment into a portfolio optimization framework using the Markowitz mean-variance approach.
 
 ## Overview
-Each notebook in this repository explores a different method of stock price prediction.
 The data source of this repository is from `yfinance`, a historical financial data API from Yahoo Finance.
 
 ## Dependencies
@@ -12,11 +11,8 @@ All required dependencies are provided in cells throughout the notebook. You may
 (Note that some are custom Python Libraries on Github and therefore are not in ```requrements.txt```. These are provided below:)
 
 ```bash
-pip install tti
 # Install the Chronos library
 !pip install git+https://github.com/amazon-science/chronos-forecasting.git
-# Install the tsfm library
-! pip install "tsfm_public[notebooks] @ git+https://github.com/ibm-granite/granite-tsfm.git@v0.2.12"
 ```
 
 ## Installation
@@ -40,29 +36,4 @@ After setting up the environment, you can run each notebook individually. They a
 ```bash
 jupyter notebook time_series_chronos.ipynb
 ```
-
-2. ```Tiny Time Mixers```'s prediction of daily price for EV sector from 9/1/2024 to 9/30/2024
-```bash
-jupyter notebook time_series_TTM.ipynb
-```
-
-3. Daily technical analysis dashboard for EV sectors from 10/1/2024 to 10/11/2024.
-```bash
-jupyter notebook technical_indicators.ipynb
-```
-
-4. Compare fundamental metrics for ten EV industry tickers
-```bash
-jupyter notebook fund_metrics/fund_metrics.ipynb
-```
-
-5. Evasive Detection Prompts Exploration
-```bash
-jupyter notebook evasive_detection/evasive_detection.ipynb
-```
-
-6. Portfolio Optimization Technique Exploration
-```bash
-jupyter notebook Portfolio_Optimization.ipynb
-``` 
 
