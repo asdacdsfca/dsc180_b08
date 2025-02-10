@@ -14,3 +14,6 @@ yfinance
 tti
 chronos
 tsfm_public
+praw
+langdetect
+python-dotenv
