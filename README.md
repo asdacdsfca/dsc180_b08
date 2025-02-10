@@ -32,8 +32,25 @@ pip install -r requirements.txt
 ## Usage
 After setting up the environment, you can run each notebook individually. They are structured so that you can explore each aspect of the time series forecasting pipeline step by step.
 
-1.  ```Chronos```'s prediction of daily price for EV sector from 9/1/2024 to 9/30/2024
+1. ARIMA
+
+2. Navigate to the directory where chronos.py is saved and run:
 ```bash
-jupyter notebook time_series_chronos.ipynb
+python Chronos-Bolt.py
 ```
+**Troubleshooting ChronosPipeline**
+
+If you encounter an error related to ```ChronosPipeline```, verify that the model is accessible by running the following:
+
+```python
+from chronos import ChronosPipeline
+pipeline = ChronosPipeline.from_pretrained('amazon/chronos-t5-small')
+```
+If you get an error that ChronosPipeline is not found, try installing Chronos explicitly (if available):
+```bash
+pip install git+https://github.com/amazon-science/chronos-forecasting.git autogluon pandas numpy torch matplotlib yfinance
+```
+
+Sample output of ```Chronos```'s prediction of daily price for S&P500 IT Sector from 10/29/2024 to 12/31/2024 is displayed in ```capstone_Chronos.ipynb```.
+
 
