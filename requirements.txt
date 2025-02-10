@@ -17,3 +17,6 @@ tsfm_public
 praw
 langdetect
 python-dotenv
+pmdarima
+statsmodels
+cvxpy
