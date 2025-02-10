@@ -14,7 +14,7 @@ All required dependencies are provided in a ```requrements.txt``` for convenienc
 
 ```bash
 # Install the Chronos library
-!pip install git+https://github.com/amazon-science/chronos-forecasting.git
+pip install git+https://github.com/amazon-science/chronos-forecasting.git
 ```
 
 ## Installation
@@ -57,7 +57,7 @@ Sample output of ```Chronos```'s prediction of daily price for S&P500 IT Sector 
 
 ### If you are interested using the scrapper, please follow the below steps:
 
-🚀Description of the scrapper: It scrapes Reddit posts from financial subreddits, analyzes them for relevant stock market discussions, and filters them using OpenAI's GPT-4o-mini model.
+🚀 Description of the scrapper: It scrapes Reddit posts from financial subreddits, analyzes them for relevant stock market discussions, and filters them using OpenAI's GPT-4o-mini model.
 
 1. Set Up API Keys:
 Create a `.env` file in the root directory and add your API keys:
