@@ -4,6 +4,8 @@ This repository contains code for comparing ARIMA and Chronos-Bolt models in for
 ## Overview
 The data source of this repository is from `yfinance`, a historical financial data API from Yahoo Finance.
 
+The data source of our sentiment analysis is in `4reddit_posts.csv`, a historical financial related posts dataset we scraped from Reddit.
+
 ## Dependencies
 
 All required dependencies are provided in cells throughout the notebook. You may install these as you run through the notebook. We have also included a ```requrements.txt``` for convenience
