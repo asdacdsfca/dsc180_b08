@@ -21,3 +21,6 @@ pmdarima
 statsmodels
 cvxpy
 requests
+spacy>=3.5.0
+nltk>=3.8.0  
+openai
