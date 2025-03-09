@@ -68,7 +68,13 @@ def process_reddit_data(input_file, output_file):
     return filtered_df
 
 if __name__ == "__main__":
-    input_file = 'agent_test.csv'
+    input_file = 'borderline_posts_additional.csv'
+    output_file = 'borderline_results__additional.csv'
+    
+    filtered_data = process_reddit_data(input_file, output_file)
+
+if __name__ == "__main__":
+    input_file = 'borderline_posts.csv'
     output_file = 'borderline_results.csv'
     
     filtered_data = process_reddit_data(input_file, output_file)

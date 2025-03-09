@@ -131,4 +131,4 @@ def scrape_reddit_posts(post_limit_per_subreddit):
 
 # Usage
 df = scrape_reddit_posts(post_limit_per_subreddit=30000)
-df.to_csv('reddit_posts_comments.csv', index=False)
+df.to_csv('reddit_posts_comments_additional.csv', index=False)

@@ -420,7 +420,7 @@ class BERTMag7Classifier:
 # Example usage
 if __name__ == "__main__":
     # Load your dataset
-    reddit_data = pd.read_csv('reddit_posts_comments.csv')  # Replace with your actual data file
+    reddit_data = pd.read_csv('reddit_posts_comments_additional.csv')  # Replace with your actual data file
     
     # Create classifier and filter posts
     classifier = BERTMag7Classifier(use_gpu=True)
@@ -431,8 +431,8 @@ if __name__ == "__main__":
     borderline_posts = mag7_posts[mag7_posts['confidence_category'] == 'borderline']
     
     # Save to separate CSV files
-    high_confidence_posts.to_csv('high_confidence_posts.csv', index=False)
-    borderline_posts.to_csv('borderline_posts.csv', index=False)
+    high_confidence_posts.to_csv('high_confidence_posts_additional.csv', index=False)
+    borderline_posts.to_csv('borderline_posts_additional.csv', index=False)
     
     # Print summary
     print(f"Saved {len(high_confidence_posts)} high confidence posts to high_confidence_posts.csv")

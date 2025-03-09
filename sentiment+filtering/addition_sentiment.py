@@ -330,7 +330,7 @@ class StockSentimentAnalyzer:
 # Example usage
 if __name__ == "__main__":
     # Sample data (replace with actual data loading)
-    data = pd.read_csv('high_confidence_posts.csv')
+    data = pd.read_csv('high_confidence_posts_additional.csv')
     
     # Initialize analyzer (set use_gpu=False if no GPU available)
     analyzer = StockSentimentAnalyzer(use_gpu=True)
