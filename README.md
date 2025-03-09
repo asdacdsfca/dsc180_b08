@@ -44,7 +44,12 @@ python ARIMA.py
 ```
 2. Navigate to the directory where chronos.py is saved and run:
 ```bash
-python Chronos-Bolt.py
+pip install git+https://github.com/amazon-science/chronos-forecasting.git
+```
+**To Get the Predictions from Chronos, run:**
+
+```bash
+python Chronos_prediction.py
 ```
 **Troubleshooting ChronosPipeline**
 
