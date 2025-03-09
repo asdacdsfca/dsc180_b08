@@ -38,7 +38,9 @@ pip install -r requirements.txt
 After setting up the environment, you can run each scripts individually. They are structured so that you can explore each aspect of the time series forecasting pipeline step by step.
 
 1. ARIMA
-
+```bash
+python ARIMA.py
+```
 2. Navigate to the directory where chronos.py is saved and run:
 ```bash
 python Chronos-Bolt.py
