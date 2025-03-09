@@ -74,7 +74,7 @@ pip install git+https://github.com/amazon-science/chronos-forecasting.git autogl
 Sample output of ```Chronos```'s prediction of daily price for S&P500 IT Sector from 01/01/2025 to 03/05/2025 is displayed in ```capstone_Chronos.ipynb```.
 I'll create a README section that explains how to run the chronos-optimization.py script. This will help users understand the requirements and usage of the script.
 
-### 3. Chronos Optimization
+### 3. Chronos-Bolt Portfolio Optimization
 
 **Data Requirements**
 
