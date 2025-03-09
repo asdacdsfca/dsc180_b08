@@ -1,9 +1,9 @@
 # Comparing Chronos-Bolt and ARIMA Models for Portfolio Optimization in the S\&P 500 Information Technology Sector
 This repository contains code for comparing ARIMA and Chronos-Bolt models in forecasting stock returns for the S&P 500 Information Technology sector. It includes implementations for ARIMA, Chronos-Bolt, and sentiment analysis, integrating technical indicators and investor sentiment into a portfolio optimization framework using the Markowitz mean-variance approach.
 
-## Our website
-https://asdacdsfca.github.io/dsc180-b08-website/
-
+## Our Deliverables
+You can find our website [here](https://asdacdsfca.github.io/dsc180-b08-website/)
+You can find our poster [here](https://drive.google.com/file/d/1V6RnXS4tDHc7dhsLZYl8quiOU0kCbego/view?usp=sharing)
 ## Overview
 The data source of this repository is from `yfinance`, a historical financial data API from Yahoo Finance.
 
