@@ -158,11 +158,16 @@ def process_company(ticker):
         'Predicted Return': two_month_cumulative_return
     }
 
-results = [process_company(ticker) for ticker in tickers]
-summary_results2 = pd.DataFrame(results)
+if __name__ == "__main__":
+    # Process all tickers
+    results = [process_company(ticker) for ticker in tickers]
+    summary_results2 = pd.DataFrame(results)
 
-predicted_prices_df2 = pd.DataFrame(predicted_prices, index=forecast_dates)
-expected_returns_df2 = pd.DataFrame.from_dict(expected_returns, orient='index', columns=["Expected Daily Return"])
-two_month_returns_df2 = pd.DataFrame.from_dict(two_month_returns, orient='index', columns=["Predicted Return"])
+    # Convert predicted price results into DataFrames
+    predicted_prices_df2 = pd.DataFrame(predicted_prices, index=forecast_dates)
+    expected_returns_df2 = pd.DataFrame.from_dict(expected_returns, orient='index', columns=["Expected Daily Return"])
+    two_month_returns_df2 = pd.DataFrame.from_dict(two_month_returns, orient='index', columns=["Predicted Return"])
 
-print(summary_results2)
+    # Display final results
+    print(summary_results2)
+
