@@ -46,6 +46,12 @@ python ARIMA.py
 ```bash
 pip install git+https://github.com/amazon-science/chronos-forecasting.git
 ```
+**Note that below steps require you to have sentiment data ready. If you do not want to customize the sentiment analysis settings or scrape new/specific data, you can access our provided sample data by:*
+
+```bash
+cd sample sentiment dataset
+```
+
 **To Get the Predictions from Chronos, run:**
 
 ```bash
