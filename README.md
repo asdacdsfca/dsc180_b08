@@ -3,6 +3,7 @@ This repository contains code for comparing ARIMA and Chronos-Bolt models in for
 
 ## Our Deliverables
 You can find our website [here](https://asdacdsfca.github.io/dsc180-b08-website/)
+
 You can find our poster [here](https://drive.google.com/file/d/1V6RnXS4tDHc7dhsLZYl8quiOU0kCbego/view?usp=sharing)
 ## Overview
 The data source of this repository is from `yfinance`, a historical financial data API from Yahoo Finance.
