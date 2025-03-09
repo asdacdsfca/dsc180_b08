@@ -38,11 +38,12 @@ pip install -r requirements.txt
 ## Usage
 After setting up the environment, you can run each scripts individually. They are structured so that you can explore each aspect of the time series forecasting pipeline step by step.
 
-1. ARIMA
+### 1. ARIMA
 ```bash
 python ARIMA.py
 ```
-2. Navigate to the directory where chronos.py is saved and run:
+### 2. Chronos-Bolt Predictions
+Navigate to the directory where chronos.py is saved and run:
 ```bash
 pip install git+https://github.com/amazon-science/chronos-forecasting.git
 ```
@@ -71,6 +72,38 @@ pip install git+https://github.com/amazon-science/chronos-forecasting.git autogl
 ```
 
 Sample output of ```Chronos```'s prediction of daily price for S&P500 IT Sector from 01/01/2025 to 03/05/2025 is displayed in ```capstone_Chronos.ipynb```.
+I'll create a README section that explains how to run the chronos-optimization.py script. This will help users understand the requirements and usage of the script.
+
+### 3. Chronos Optimization
+
+**Data Requirements**
+
+The script requires the following data files:
+- `daily_sentiment_summary.csv` - Primary sentiment analysis data
+- `daily_sentiment_summary_2.csv` - Secondary sentiment analysis data
+
+**To run the portfolio optimization script:**
+
+```bash
+python chronos-optimization.py
+```
+
+**Configuration**
+
+You can modify the following parameters in the script:
+
+1. `symbols` - List of stock tickers to include in the optimization
+2. `predict_start_date` - Start date for the prediction period
+3. `predict_end_date` - End date for the prediction period
+For detailed information about the optimization methodology, refer to the docstrings within the script.
+
+**Output**
+
+The script generates the following outputs:
+- Portfolio weights for both standard and sentiment-adjusted optimization
+- Performance comparison between optimization strategies
+- Visualization of portfolio performance
+
 
 ### If you are interested using the scrapper, please follow the below steps:
 
