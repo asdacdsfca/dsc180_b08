@@ -3,6 +3,7 @@
 echo "Running Reddit Scraper..."
 cd scraping
 python with_comment.py
+python with_comment_additional.py
 cd ..  # Go back to root directory
 
 echo "Running Basic Posts Filter..."
