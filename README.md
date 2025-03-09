@@ -78,9 +78,7 @@ I'll create a README section that explains how to run the chronos-optimization.p
 
 **Data Requirements**
 
-The script requires the following data files:
-- `daily_sentiment_summary.csv` - Primary sentiment analysis data
-- `daily_sentiment_summary_2.csv` - Secondary sentiment analysis data
+The script requires the sentiment analysis data from last step.
 
 **To run the portfolio optimization script:**
 
