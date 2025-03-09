@@ -59,7 +59,7 @@ If you get an error that ChronosPipeline is not found, try installing Chronos ex
 pip install git+https://github.com/amazon-science/chronos-forecasting.git autogluon pandas numpy torch matplotlib yfinance
 ```
 
-Sample output of ```Chronos```'s prediction of daily price for S&P500 IT Sector from 10/29/2024 to 12/31/2024 is displayed in ```capstone_Chronos.ipynb```.
+Sample output of ```Chronos```'s prediction of daily price for S&P500 IT Sector from 01/01/2025 to 03/05/2025 is displayed in ```capstone_Chronos.ipynb```.
 
 ### If you are interested using the scrapper, please follow the below steps:
 
